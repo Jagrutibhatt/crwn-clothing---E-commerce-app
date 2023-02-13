@@ -1,4 +1,4 @@
-import "./category-item.components.scss";
+import "./category-item.style.scss";
 
 const CategoryItem = ({ category }) => {
   /* destructuring the array */
